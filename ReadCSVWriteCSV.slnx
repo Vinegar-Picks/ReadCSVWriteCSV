@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ReadCSVWriteCSV/ReadCSVWriteCSV.vcxproj" Id="2b9d8a41-e02a-46a1-ab3f-ddf3526a4139" />
+</Solution>
